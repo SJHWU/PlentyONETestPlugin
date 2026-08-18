@@ -1,0 +1,15 @@
+{
+    "require-dev": {
+        "plentymarkets/plugin-interface": "dev-stable7#1ddda526961acefa1ee7343107cad00a4d177003"
+    },
+    "config": {
+        "policy": {
+            "advisories": {
+                "block": false
+            }
+        },
+        "allow-plugins": {
+            "kylekatarnls/update-helper": false
+        }
+    }
+}

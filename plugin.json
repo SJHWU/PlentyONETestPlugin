@@ -1,0 +1,11 @@
+{
+    "name"              :   "PlentyONETestPlugin",
+    "namespace"         :   "PlentyONETestPlugin",
+    "type"              :   "template",
+    "version"           :   "1.0.1",
+    "pluginIcon"        :   "icon_plugin_xs.png",
+    "description"       :   "Basic Test Plugin",
+    "author"            :   "Stefan Hanke",
+    "authorIcon"        :   "icon_author_xs.png",
+    "serviceProvider"   :   "PlentyONETestPlugin\\Providers\\PlentyONETestPluginServiceProvider"
+}

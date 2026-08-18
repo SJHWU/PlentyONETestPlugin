@@ -1,0 +1,28 @@
+{
+    "formatVersion": 1,
+    "menu": {
+        "global": {
+            "label": "Config.global",
+            "fullWidth": true,
+            "formFields": {
+                "global.apiKey": {
+                    "type": "inputText",
+                    "required": false,
+                    "label": "Config.apiKeyLabel",
+                    "options": {
+                        "isPassword": true,
+                        "tooltip": "Config.apiKeyTooltip"
+                    }
+                },
+                "global.serviceUrl": {
+                    "type": "inputText",
+                    "required": false,
+                    "label": "Config.serviceUrlLabel",
+                    "options": {
+                        "tooltip": "Config.serviceUrlTooltip"
+                    }
+                }
+            }
+        }
+    }
+}

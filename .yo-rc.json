@@ -1,0 +1,14 @@
+{
+  "@plentymarkets/generator-plugin": {
+    "promptValues": {
+      "type": "general"
+    },
+    "answers": {
+      "name": "PlentyONETestPlugin",
+      "author": "Stefan Hanke",
+      "type": "general",
+      "description": "Basic Test Plugin",
+      "version": "1.0.0"
+    }
+  }
+}
